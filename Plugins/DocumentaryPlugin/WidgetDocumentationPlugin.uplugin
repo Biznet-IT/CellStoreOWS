@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.7",
+	"FriendlyName": "WidgetDocumentationPlugin",
+	"Description": "This Plugin allows to save Widget to PDF, Image, convert Widget to texture and share other functions related to documents",
+	"Category": "Other",
+	"CreatedBy": "Greg Shynkar",
+	"CreatedByURL": "www.linkedin.com/in/greg-shynkar-2839a6b2/",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3fc2b12642e74510b667d749c29737c2",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "WidgetDocumentationPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}
