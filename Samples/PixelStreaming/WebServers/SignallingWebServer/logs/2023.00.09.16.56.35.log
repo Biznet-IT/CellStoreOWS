@@ -1,0 +1,41 @@
+16:56:35.032 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": true,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"LogVerbose": true,
+	"HomepageFile": "player.html",
+	"AdditionalRoutes": {},
+	"EnableWebserver": true,
+	"MatchmakerAddress": "",
+	"MatchmakerPort": "9999",
+	"PublicIp": "localhost",
+	"HttpPort": 80,
+	"HttpsPort": 443,
+	"StreamerPort": 8888,
+	"SFUPort": 8889,
+	"MaxPlayerCount": -1
+}
+16:56:35.697 No peerConnectionConfig
+16:56:35.705 Running Cirrus - The Pixel Streaming reference implementation signalling server for Unreal Engine 5.1.
+16:56:35.889 WebSocket listening for Streamer connections on :8888
+16:56:35.891 WebSocket listening for SFU connections on :8889
+16:56:35.893 WebSocket listening for Players connections on :80
+16:56:35.906 Http listening on *: 80
+16:56:35.911 Matchmaker connection error {"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":9999}
+16:56:35.912 Setting Keep Alive to true
+16:56:35.912 Matchmaker connection closed (hadError=true)
+16:56:35.913 Try reconnect to Matchmaker in 5 seconds
+16:56:40.930 Matchmaker connection error {"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":9999}
+16:56:40.933 Setting Keep Alive to true
+16:56:40.934 Matchmaker connection closed (hadError=true)
+16:56:40.934 Try reconnect to Matchmaker in 5 seconds
+16:56:45.949 Matchmaker connection error {"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":9999}
+16:56:45.952 Setting Keep Alive to true
+16:56:45.952 Matchmaker connection closed (hadError=true)
+16:56:45.953 Try reconnect to Matchmaker in 5 seconds
+16:56:50.961 Matchmaker connection error {"errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":9999}
+16:56:50.963 Setting Keep Alive to true
+16:56:50.963 Matchmaker connection closed (hadError=true)
+16:56:50.963 Try reconnect to Matchmaker in 5 seconds
