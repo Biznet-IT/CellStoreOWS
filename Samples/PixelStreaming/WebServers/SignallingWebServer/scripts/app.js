@@ -1594,7 +1594,7 @@ let inputOptions = {
     // Browser keys are those which are typically used by the browser UI. We
     // usually want to suppress these to allow, for example, UE to show shader
     // complexity with the F5 key without the web page refreshing.
-    suppressBrowserKeys: true,
+    suppressBrowserKeys: false,
 
     // UE has a faketouches option which fakes a single finger touch when the
     // user drags with their mouse. We may perform the reverse; a single finger

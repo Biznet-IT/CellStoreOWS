@@ -1,0 +1,25 @@
+14:56:56.917 Config: {
+	"UseFrontend": false,
+	"UseMatchmaker": false,
+	"UseHTTPS": false,
+	"UseAuthentication": false,
+	"LogToFile": true,
+	"LogVerbose": true,
+	"HomepageFile": "player.html",
+	"AdditionalRoutes": {},
+	"EnableWebserver": true,
+	"MatchmakerAddress": "",
+	"MatchmakerPort": "9999",
+	"PublicIp": "localhost",
+	"HttpPort": 80,
+	"HttpsPort": 443,
+	"StreamerPort": 8888,
+	"SFUPort": 8889,
+	"MaxPlayerCount": -1
+}
+14:56:57.479 No peerConnectionConfig
+14:56:57.490 Running Cirrus - The Pixel Streaming reference implementation signalling server for Unreal Engine 5.1.
+14:56:57.618 WebSocket listening for Streamer connections on :8888
+14:56:57.620 WebSocket listening for SFU connections on :8889
+14:56:57.621 WebSocket listening for Players connections on :80
+14:56:57.623 Http listening on *: 80
