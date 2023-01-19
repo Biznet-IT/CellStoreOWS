@@ -60,3 +60,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/ThirdPersonBP/Maps/CellStoreV01_2.umap
 Content/ThirdPersonBP/Maps/CellStoreV01_2.umap
+Content/Blueprints/WidgDocFurnitureExample - copia.uasset
+Content/Blueprints/WidgDocLineInfo - copia.uasset
+Content/Blueprints/WidgDocMainWidget - copia.uasset
+Content/Blueprints/WidgDocProductList - copia.uasset
