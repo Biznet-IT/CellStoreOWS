@@ -58,3 +58,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ThirdPersonBP/Maps/CellStoreV01_2.umap
+Content/ThirdPersonBP/Maps/CellStoreV01_2.umap
