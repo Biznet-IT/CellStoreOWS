@@ -37,6 +37,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+CellstoreNoMulti/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
